@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://toonohmees.cgallello.com/sitemap.xml
